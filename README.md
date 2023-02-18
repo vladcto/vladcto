@@ -19,7 +19,7 @@
 	<h1>✌️ Shalom ✌️</h1>
 </div>
 
-## What am I :suspect:
+### What am I 👻
 I am a programmer-enthusiast from St. Petersburg. 🔥
 - 🚀 I'm on my way to being a Flutter developer right now. 🚀 
 - 😃 In my free time I do mobile game development and practice cardistry.
@@ -27,8 +27,8 @@ I am a programmer-enthusiast from St. Petersburg. 🔥
 
 ---
 
-## Languages and tools 🛠️
-### My favorite ❤️: 
+### Languages and tools 🛠️
+#### My favorite ❤️: 
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" width="40" height="40"/>&nbsp;
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="40" height="40"/>&nbsp;
 <img src= "https://riverpod.dev/img/logo.svg" width="40" height="40"/>
@@ -41,7 +41,7 @@ I am a programmer-enthusiast from St. Petersburg. 🔥
 
 <br/>
 
-### Have an unforgettable experience 😎:
+#### Have an unforgettable experience 😎:
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="30" height="30"/>&nbsp;
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" width="30" height="30"/>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/>&nbsp;
@@ -51,7 +51,7 @@ I am a programmer-enthusiast from St. Petersburg. 🔥
 
 ---
 
-## My progress 🎃
+### My progress 🎃
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladcto&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladcto&layout=compact&theme=slateorange&exclude_repo=LearningML&hide=html,ShaderLab,C)](https://github.com/anuraghazra/github-readme-stats)
