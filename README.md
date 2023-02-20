@@ -1,6 +1,6 @@
-<div align="center"> <h1>✌️ Shalom ✌️</h1> </div>
+<div align="center"> <h2>✌️ Shalom ✌️</h2> </div>
 
-<table border="0">
+<table border="2">
 <tr>
     <td>
 		<div id="header" align="center">
@@ -31,33 +31,37 @@
 	</td>
 </tr>
 </table>
-
-### What am I 👻
-I am a programmer-enthusiast from St. Petersburg. 🔥
-- 🚀 I'm on my way to being a Flutter developer right now. 🚀 
-- 😃 In my free time I do mobile game development and practice cardistry.
-- 🎪 I am a 2nd year student at GUAP.
-
----
-
-### Languages and tools 🛠️
-#### My favorite ❤️: 
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" width="40" height="40"/>&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="40" height="40"/>&nbsp;
-<img src= "https://riverpod.dev/img/logo.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" width="40" height="40"/>&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" width="40" height="40"/>&nbsp;
-<img src= "assets/dotween.png" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="40" height="40"/>&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" width="40" height="40"/>&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" width="40" height="40"/> 
-
-<br/>
-
-#### Have an unforgettable experience 😎:
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="30" height="30"/>&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" width="30" height="30"/>&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/>&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="30" height="30"/>&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>&nbsp;
-<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" width="30" height="30"/>&nbsp;
+<table border="1">
+	<tr>
+		<td width = "60%" >
+			<h3 align="center">What am I 👻</h3>
+			<ul>
+				<li> 🔥I am a programmer-enthusiast from St. Petersburg.
+				<li> 🚀 I'm on my way to being a Flutter developer right now.
+				<li> 😃 In my free time I do mobile game development and practice cardistry.
+				<li> 🎪 I am a 2nd year student at GUAP.
+			</ul>
+		</td>
+		<td align="center">
+			<h3> Languages and tools 🛠️ <h3>
+			<h4> ❤️ My favorite ❤️ </h4>
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" width="40" height="40"/>
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="40" height="40"/>
+			<img src= "https://riverpod.dev/img/logo.svg" width="40" height="40"/>
+			</br>
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" width="40" height="40"/>
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" width="40" height="40"/>
+			</br>
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="40" height="40"/>&nbsp;
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" width="40" height="40"/>&nbsp;
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" width="40" height="40"/>
+			<h4>Have worked</h4>
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="20" height="20"/>&nbsp;
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" width="20" height="20"/>&nbsp;
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" width="20" height="20"/>&nbsp;
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="20" height="20"/>&nbsp;
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/>&nbsp;
+			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" width="20" height="20"/>&nbsp;
+		</td>
+	</tr>
+</table>
