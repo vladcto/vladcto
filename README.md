@@ -35,7 +35,7 @@
 		<td width ="60%" >
 			<h3 align="center">What am I 👻</h3>
 			<ul>
-				<li> 🔥I am a programmer-enthusiast from St. Petersburg.
+				<li> 🔥 I am a programmer-enthusiast from St. Petersburg.
 				<li> 🚀 I'm on my way to being a Flutter developer right now.
 				<li> 😃 In my free time I do mobile game development and practice cardistry.
 				<li> 🎪 I am a 2nd year student at SUAI.
