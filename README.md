@@ -1,23 +1,36 @@
-<div id="header" align="center">
-	<img src="assets/crab_chilling.gif" width="150"/>
-	<div>
-		<a href ="https://t.me/Vlad_Sparrow">
-			<img src = "https://img.shields.io/badge/Telegram-0088cc?logo=telegram&style=flat-for-badge"/>
-		</a>
-		<a href ="https://vk.com/vlad_banan">
-			<img src = "https://img.shields.io/badge/VKontakte-0077FF?logo=vk&style=for--badge"/>
-		</a>
-		<!--
-		<a href = "https://discordapp.com/users/Deimos#7444">
-			<img src ="https://img.shields.io/badge/Discord-36393e?logo=discord&style=flat-for-badge"/>
-		</a>
-		-->
-		<a href = "mailto:vladctocrytoe@mail.ru">
-			<img src ="https://img.shields.io/badge/Mail.ru-168de2?logo=mail.ru&style=flat-for-badge" alt = "vladctocrytoe@mail.ru"/>
-		</a>
-	</div>
-	<h1>✌️ Shalom ✌️</h1>
-</div>
+<div align="center"> <h1>✌️ Shalom ✌️</h1> </div>
+
+<table border="0">
+<tr>
+    <td>
+		<div id="header" align="center">
+			<img src="assets/crab_chilling.gif" width="250"/>
+			<div>
+				<a href ="https://t.me/Vlad_Sparrow">
+					<img src = "https://img.shields.io/badge/Telegram-0088cc?logo=telegram&style=flat-for-badge"/>
+				</a>
+				<a href ="https://vk.com/vlad_banan">
+					<img src = "https://img.shields.io/badge/VKontakte-0077FF?logo=vk&style=for--badge"/>
+				</a>
+				<!--
+				<a href = "https://discordapp.com/users/Deimos#7444">
+					<img src ="https://img.shields.io/badge/Discord-36393e?logo=discord&style=flat-for-badge"/>
+				</a>
+				-->
+				<a href = "mailto:vladctocrytoe@mail.ru">
+					<img src ="https://img.shields.io/badge/Mail.ru-168de2?logo=mail.ru&style=flat-for-badge" alt = "vladctocrytoe@mail.ru"/>
+				</a>
+			</div>
+		</div>
+	</td>
+    <td width = "65%">
+		<div align="center">
+			<img src = "http://github-readme-streak-stats.herokuapp.com?user=vladcto&theme=slateorange&hide_border=true"/>
+			<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vladcto&layout=compact&theme=slateorange&exclude_repo=LearningML&hide=html,ShaderLab,C"/>
+		</div>
+	</td>
+</tr>
+</table>
 
 ### What am I 👻
 I am a programmer-enthusiast from St. Petersburg. 🔥
@@ -48,11 +61,3 @@ I am a programmer-enthusiast from St. Petersburg. 🔥
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="30" height="30"/>&nbsp;
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>&nbsp;
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" width="30" height="30"/>&nbsp;
-
----
-
-### My progress 🎃
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladcto&theme=slateorange&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladcto&layout=compact&theme=slateorange&exclude_repo=LearningML&hide=html,ShaderLab,C)](https://github.com/anuraghazra/github-readme-stats)
-
