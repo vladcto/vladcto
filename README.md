@@ -3,7 +3,7 @@
     <td>
 		<div id="header" align="center">
 			<h2> ✌️ Shalom ✌️ <h2>
-			<img src="assets/crab_chilling.gif" width="250"/>
+			<img src="assets/crab_chilling.gif" width = "100%" />
 			<div>
 				<a href ="https://t.me/Vlad_Sparrow">
 					<img src = "https://img.shields.io/badge/Telegram-0088cc?logo=telegram&style=flat-for-badge"/>
