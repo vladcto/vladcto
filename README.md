@@ -38,7 +38,7 @@
 				<li> 🔥I am a programmer-enthusiast from St. Petersburg.
 				<li> 🚀 I'm on my way to being a Flutter developer right now.
 				<li> 😃 In my free time I do mobile game development and practice cardistry.
-				<li> 🎪 I am a 2nd year student at GUAP.
+				<li> 🎪 I am a 2nd year student at SUAI.
 			</ul>
 		</td>
 		<td align="center" width="1000px">
