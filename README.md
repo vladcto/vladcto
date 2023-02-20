@@ -1,9 +1,8 @@
-<div align="center"> <h2>✌️ Shalom ✌️</h2> </div>
-
 <table border="2">
 <tr>
     <td>
 		<div id="header" align="center">
+			<h2> ✌️ Shalom ✌️ <h2>
 			<img src="assets/crab_chilling.gif" width="250"/>
 			<div>
 				<a href ="https://t.me/Vlad_Sparrow">
