@@ -33,7 +33,7 @@
 </table>
 <table border="1">
 	<tr>
-		<td width = "60%" >
+		<td width ="60%" >
 			<h3 align="center">What am I 👻</h3>
 			<ul>
 				<li> 🔥I am a programmer-enthusiast from St. Petersburg.
@@ -42,7 +42,7 @@
 				<li> 🎪 I am a 2nd year student at GUAP.
 			</ul>
 		</td>
-		<td align="center">
+		<td align="center" width="1000px">
 			<h3> Languages and tools 🛠️ <h3>
 			<h4> ❤️ My favorite ❤️ </h4>
 			<img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" width="40" height="40"/>
