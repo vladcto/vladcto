@@ -25,7 +25,7 @@
     <td width = "65%">
 		<div align="center">
 			<img src = "http://github-readme-streak-stats.herokuapp.com?user=vladcto&theme=slateorange&hide_border=true"/>
-			<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vladcto&layout=compact&theme=slateorange&exclude_repo=LearningML&hide=html,ShaderLab,C"/>
+			<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vladcto&layout=compact&theme=slateorange&exclude_repo=LearningML&hide=html,ShaderLab,C,Cmake"/>
 		</div>
 	</td>
 </tr>
