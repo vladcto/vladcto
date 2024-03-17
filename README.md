@@ -4,22 +4,6 @@
 		<div id="header" align="center">
 			<h2> ✌️ Shalom ✌️ <h2>
 			<img src="assets/crab_chilling.gif" width = "80%" />
-			<div>
-				<a href ="https://t.me/Vlad_Sparrow">
-					<img src = "https://img.shields.io/badge/Telegram-0088cc?logo=telegram&style=flat-for-badge"/>
-				</a>
-				<a href ="https://vk.com/vlad_banan">
-					<img src = "https://img.shields.io/badge/VKontakte-0077FF?logo=vk&style=for--badge"/>
-				</a>
-				<!--
-				<a href = "https://discordapp.com/users/Deimos#7444">
-					<img src ="https://img.shields.io/badge/Discord-36393e?logo=discord&style=flat-for-badge"/>
-				</a>
-				-->
-				<a href = "mailto:vladctocrytoe@mail.ru">
-					<img src ="https://img.shields.io/badge/Mail.ru-168de2?logo=mail.ru&style=flat-for-badge" alt = "vladctocrytoe@mail.ru"/>
-				</a>
-			</div>
 		</div>
 	</td>
     <td width = "65%">
